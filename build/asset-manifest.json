@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lembrete/static/css/main.3a53aa21.chunk.css",
+    "main.js": "/lembrete/static/js/main.c1bd46ae.chunk.js",
+    "main.js.map": "/lembrete/static/js/main.c1bd46ae.chunk.js.map",
+    "runtime-main.js": "/lembrete/static/js/runtime-main.667e91b9.js",
+    "runtime-main.js.map": "/lembrete/static/js/runtime-main.667e91b9.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/lembrete/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/lembrete/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/lembrete/index.html",
+    "precache-manifest.b76d975350bbcae5e36b7fb331709fb8.js": "/lembrete/precache-manifest.b76d975350bbcae5e36b7fb331709fb8.js",
+    "service-worker.js": "/lembrete/service-worker.js",
+    "static/css/main.3a53aa21.chunk.css.map": "/lembrete/static/css/main.3a53aa21.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/lembrete/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.667e91b9.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.3a53aa21.chunk.css",
+    "static/js/main.c1bd46ae.chunk.js"
+  ]
+}
